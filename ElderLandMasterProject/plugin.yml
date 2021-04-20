@@ -1,0 +1,9 @@
+name: ElderProject
+version: 1.0
+main: me.RoboBoy99.ElderProject.ElderProject
+commands:
+  Profile:
+  Rename:
+  Clan:
+  Bounty:
+  Housing:
